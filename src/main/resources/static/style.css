@@ -1,0 +1,32 @@
+
+html {
+    font-size: 150%;
+    display: flex;
+    padding: 10%;
+    margin: 7%;
+    justify-content: center;
+    text-align: center;
+    box-sizing:content-box;
+    
+}
+
+html{
+    text-align: center;
+    border-bottom: 1px solid rgb(255, 252, 252);
+    text-decoration-color: #ffffff;
+    border: 10px rgb(0, 0, 0) solid;
+    border-radius: 5%;
+    border-style:ridge
+}
+body {
+    background-color:#dac50b;
+}
+image {
+    text-align: center;
+}
+
+h3,a {
+    text-align: center;
+    color: #ffffff;
+    text-decoration-color: #ffffff;
+}
